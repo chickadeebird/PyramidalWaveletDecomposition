@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+		First release of Wavelet library from chickadeebird.
+      </p>
+      <p>
+      The scripts have been written by Chick Dee (alias chickadeebird).
+      Feedback can be provided on the PixInsight forums.
+      </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:2.0.0">
+      <package fileName="PyramidalWaveletDecompositionv1.0.3beta.zip" sha1="773a036bba6a8541629351c7404bec71edce1e62" type="script" releaseDate="20250529">
+         <title>
+            Script for PyramidalWaveletDecomposition - Pyramidal Wavelet Decomposition Script.
+         </title>
+         <description>
+            <p>
+               Script for testing out the Multiscale Wavelet Decomposition and Recomposition library, implemented for other scripts. <br/>
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
