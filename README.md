@@ -35,3 +35,4 @@ After this has been added to the repositories, Resources > Updates > Check for u
 1. Need to implement the functionality for RGB images.
 2. Need to test further for different image sizes.
 3. Need to implement a restriction on the number of levels permitted based on the image size and the wavelet filter size.
+4. Limit the number of intermediate images that are "shown" and keep them hidden if they are to be destroyed (to minimize the amount of image flashing exposed to the user).
