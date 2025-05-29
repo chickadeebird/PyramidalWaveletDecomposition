@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/chickadeebird/PyramidalWaveletDecomposition/ma
 
 After this has been added to the repositories, Resources > Updates > Check for updates should place the new PyramidalWaveletDecomposition script in Scripts > ChickadeeScripts
 
-# Future Work
+# Immediate Future Work
 
 1. Need to implement the functionality for RGB images.
 2. Need to test further for different image sizes.
