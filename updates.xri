@@ -10,7 +10,7 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-      <package fileName="PyramidalWaveletDecompositionv1.0.3beta.zip" sha1="773a036bba6a8541629351c7404bec71edce1e62" type="script" releaseDate="20250529">
+      <package fileName="PyramidalWaveletDecompositionv1.0.0beta.zip" sha1="773a036bba6a8541629351c7404bec71edce1e62" type="script" releaseDate="20250529">
          <title>
             Script for PyramidalWaveletDecomposition - Pyramidal Wavelet Decomposition Script.
          </title>
