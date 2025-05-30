@@ -1,6 +1,6 @@
 # PyramidalWaveletDecomposition
 
-This is a Pixinsight script for testing out a Multiscale Wavelet Decomposition library that I created from scratch using Pixinsight Image, View and Window structures, and some functions such as Crop, but otherwise from scratch. I intend to use the library to test multiscale filtering of astronomical images, but I wanted to share the library for others to use.
+This is a Pixinsight script for testing out a Multiscale Wavelet Decomposition library that I created from scratch using Pixinsight Image, View and Window structures, and some functions such as Crop, but otherwise from scratch. I intend to use the library to test multiscale filtering of astronomical images, but I wanted to share the library for others to use. I have fairly extensively tested/compared the results of this library with the python PyWavelets library and there is good concordance between the two libraries.
 
 Essentially, the script takes an image and decomposes it to the number of levels requested in the dropdown.
 
